@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "ae0a3197-ed4f-41e3-9d77-b2f962e710ff")
+	(uuid "7666bdb6-ca5e-4117-a6db-991f3364881a")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
