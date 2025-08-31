@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "2ed1337c-c668-46ef-b46c-e20ff31177fc")
+	(uuid "c4f66045-10c2-460b-99b9-4998969c0eca")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
@@ -1201,7 +1201,7 @@
 		)
 		(uuid "ebd674a6-bf5a-461f-aad1-e1a3d2f1ab53")
 	)
-	(hierarchical_label "SCK"
+	(hierarchical_label "SCL"
 		(shape passive)
 		(at 114.3 90.17 0)
 		(effects
