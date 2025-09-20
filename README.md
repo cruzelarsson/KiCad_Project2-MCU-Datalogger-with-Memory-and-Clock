@@ -1,4 +1,4 @@
-3D layout (final design)
+3D layout of 2 layer PCB (final design)
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d88eb629-cfcd-4c86-9158-ad111f4314af" />
 
