@@ -9,9 +9,9 @@
 
 PCB Board layout with board specifications 
 
-<img width="1940" height="1088" alt="image" src="https://github.com/user-attachments/assets/a200e18d-89b4-4087-84ee-28b6e702fef0" />
-
 <img width="1341" height="835" alt="image" src="https://github.com/user-attachments/assets/69b853cb-3fbe-444e-9489-086fe32d8527" />
+
+<img width="1940" height="1088" alt="image" src="https://github.com/user-attachments/assets/a200e18d-89b4-4087-84ee-28b6e702fef0" />
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
