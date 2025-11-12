@@ -15,6 +15,8 @@ PCBWay provided high-quality manufactured boards that arrived perfectly aligned 
 
 A huge thanks to PCBWay for their support in helping bring this project to life. Their fast turnaround and reliable service made the prototyping process straightforward and efficient.
 
+Below you will find the printed out board:
+
 <img width="2602" height="1626" alt="image" src="https://github.com/user-attachments/assets/2215344a-5ba6-4692-a890-104f2ca47287" />
 
 <img width="2470" height="1528" alt="image" src="https://github.com/user-attachments/assets/fd88eb5e-fe3b-49e2-9ba3-35a99ecfe9b1" />
