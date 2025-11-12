@@ -9,7 +9,17 @@ MCU Datalogger with memory and clock
 •	Produced a compact design with status LEDs, mounting holes and modular connectors, ensuring physical durability and visible feedback. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+This project — MCU Datalogger with Memory and Clock — was supported by PCBWay through their PCB prototyping sponsorship program.
 
+PCBWay provided high-quality manufactured boards that arrived perfectly aligned and finished. The fabrication quality was excellent, with sharp silkscreen printing, clean solder masks, and precise drill accuracy. Assembly and testing went smoothly, and the boards performed exactly as designed.
+
+A huge thanks to PCBWay for their support in helping bring this project to life. Their fast turnaround and reliable service made the prototyping process straightforward and efficient.
+
+<img width="2602" height="1626" alt="image" src="https://github.com/user-attachments/assets/2215344a-5ba6-4692-a890-104f2ca47287" />
+
+<img width="2470" height="1528" alt="image" src="https://github.com/user-attachments/assets/fd88eb5e-fe3b-49e2-9ba3-35a99ecfe9b1" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 3D layout of 2 layer PCB (final design)
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d88eb629-cfcd-4c86-9158-ad111f4314af" />
