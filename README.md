@@ -11,7 +11,7 @@ MCU Datalogger with memory and clock
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 This project — MCU Datalogger with Memory and Clock — was supported by PCBWay through their PCB prototyping sponsorship program.
 
-PCBWay provided high-quality manufactured boards that arrived perfectly aligned and finished. The fabrication quality was excellent, with sharp silkscreen printing, clean solder masks, and precise drill accuracy. Assembly and testing went smoothly, and the boards performed exactly as designed.
+PCBWay provided high-quality manufactured boards that arrived perfectly aligned and finished. The fabrication quality was excellent, with sharp silkscreen printing, clean solder masks, and precise drill accuracy.
 
 A huge thanks to PCBWay for their support in helping bring this project to life. Their fast turnaround and reliable service made the prototyping process straightforward and efficient.
 
