@@ -1,10 +1,10 @@
 MCU Datalogger with memory and clock 
 
-•	Designed and implemented a multi layer PCB microcontroller datalogger using ATMEGA328P-AU, integrated with a DS1337 and 32.768 kHz crystal oscillator to ensure precise timestamping with two 24LC1025 EEPROM chips for non-volatile data storage capacity.
+• Designed and debugged multi-layer PCB design using microcontroller, EEPROM, and RTC module with a regulated power supply, improving thermal performance ~30% by utilizing accurate design & routing methodologies ensuring zero DRC & ERC errors.
 
-•	Revamped the schematic with 2-layer PCD design while incorporating power regulation with zero DRC errors, proving the understanding of embedded systems. 
+• Evaluated electrical and firmware-level interactions between MCU and peripherals for stable operation.
 
-•	Optimized clock/reset circuits for a stable and reliable performance and provided easy debugging/reprogramming access. 
+• Validated MCU communication protocols using I2C for peripheral data exchange.
 
 •	Produced a compact design with status LEDs, mounting holes and modular connectors, ensuring physical durability and visible feedback. 
 
